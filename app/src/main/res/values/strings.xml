@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Meu Repertório</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="titulo_fragmentmusicas">Lista de Músicas:</string>
+    <string name="titulo_fragmentmusicanovo">Nova Música:</string>
+    <string name="title_fragment_mostramusica">Ver a Música</string>
+    <string name="action_pesquisar">Pesquisar</string>
+    <string name="hint_pesquisar">Nome da Música:</string>
+    <string name="nome_musica">Nome da Música:</string>
+    <string name="nome_banda">Nome da Banda:</string>
+    <string name="titulo_conteuda_musica">Letra:</string>
+    <string name="video_url">URL da Vídeo:</string>
+    <string name="todas">Todas</string>
+    <string name="musicas">Músicas</string>
+    <string name="banda">Banda</string>
+    <string name="titulo_conteudo_musica">Música:</string>
+
+    <string name="nav_listmusicas">Lista de Musicas</string>
+    <string name="nav_sobre">Sobre</string>
+    <string name="nav_configuracoes">Configurações</string>
+
+    <string name="direitos_autorais">Meu Repertório Inc.</string>
+
+
+    <string name="action_novo">Nova</string>
+    <string name="title_fragment_novamusica">Nova Música:</string>
+
+    <string name="action_salvar">Salvar</string>
+    <string name="action_excluir">Excluir</string>
+
+    <string name="action_editar">Editar</string>
+    <string name="title_fragment_editamusica">Edição da Música:</string>
+
+
+    <string name="val_dadosinputs">Você deve inserir pelo menos o nome da música.</string>
+
+    <string name="alert_title_wait">Aguarde</string>
+    <string name="alert_message_processando">Processando ...</string>
+    <string name="alertdialog_buttom_ok">OK</string>
+    <string name="alert_title_resultadodaoperacao">Resultado da Operação</string>
+    <string name="alert_message_realizadacomsucesso">Realizada com sucesso.</string>
+    <string name="alert_message_erroaorealizaroperacao">Erro ao realizar a operação. Por favor, entre em contato com o desenvolvedor.</string>
+
+    <string name="nome">Nome</string>
+</resources>

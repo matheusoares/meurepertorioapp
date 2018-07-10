@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/menu/menu_fragment_mostramusica.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/menu/menu_fragment_mostramusica.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/menu/menu_fragment_musicas.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/menu/menu_fragment_musicas.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/menu/menu_fragment_editamusica.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/menu/menu_fragment_editamusica.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/menu/menu_fragment_novamusica.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/menu/menu_fragment_novamusica.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/menu/main.xml"
+    }
+]

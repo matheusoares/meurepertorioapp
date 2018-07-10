@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/matheus_soares/.android/build-cache/514403d2385a8b08137efaf8e4cbcef3bf6bdf0b/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/matheus_soares/.android/build-cache/514403d2385a8b08137efaf8e4cbcef3bf6bdf0b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/matheus_soares/.android/build-cache/5a25797073bd893c22571e6282ce9f948c4412a7/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/matheus_soares/.android/build-cache/5a25797073bd893c22571e6282ce9f948c4412a7/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/matheus_soares/.android/build-cache/514403d2385a8b08137efaf8e4cbcef3bf6bdf0b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/matheus_soares/.android/build-cache/5a25797073bd893c22571e6282ce9f948c4412a7/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/matheus_soares/.android/build-cache/514403d2385a8b08137efaf8e4cbcef3bf6bdf0b/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/matheus_soares/.android/build-cache/5a25797073bd893c22571e6282ce9f948c4412a7/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    }
+]

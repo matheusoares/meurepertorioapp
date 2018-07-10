@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_mr.png",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/mipmap-xxhdpi/ic_launcher_mr.png"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/matheus_soares/AndroidStudioProjects/MeuRepertorio/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
